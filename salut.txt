@@ -1,2 +1,4 @@
 salut
 tracteur
+oeuf
+poule
