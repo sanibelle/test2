@@ -1,6 +1,2 @@
-salut
-tracteur
-oeuf
-poule
-bam
-bam
+chat chien chat chien
+moule pour chat
