@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mon poeme est encore mieux!
+=======
+texte de la branche 2
+>>>>>>> branche2
